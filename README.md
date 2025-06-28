@@ -27,7 +27,9 @@ This analysis goes beyond numbers — it sheds light on how the **future of work
  - Roles such as Machine Learning Researcher, AI Software Engineer, and Head of AI are roles in demand
 
 
-   ![image alt](
+   ![image alt](https://github.com/Prospy16/AI-job-analysis/blob/main/overview.png)
+   ![image alt](https://github.com/Prospy16/AI-job-analysis/blob/main/salary.png)
+   
 
 
 
